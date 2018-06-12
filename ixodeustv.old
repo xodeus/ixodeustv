@@ -1,3 +1,4 @@
+#Dette er en gammel version hvor EPG ikke virker
 #EXTM3U
 #EXTINF:0 tvg-id="DANISHBAY" tvg-logo="https://danishbits.org/static/bitbucket/users/1507830593.8824.png", group-title="DANSK",DANISHBAY
 http://176.31.225.191:8081/live/Fuck-Widestream/playlist.m3u8
