@@ -21,14 +21,10 @@ http://tv2danmark-tv2charlie-live.hls.adaptive.level3.net/tv2danmark/tv2charlie/
 http://tv2danmark-tv2fri-live.hls.adaptive.level3.net/tv2danmark/tv2fri/master.m3u8
 #EXTINF:0 tvg-shift="0" tvg-id="TV2 Zulu DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628582.8649.png", group-title="DANSK",TV 2 ZULU
 http://tv2danmark-tv2zulu-live.hls.adaptive.level3.net/tv2danmark/tv2zulu/master.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="TV2 DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1521240417.8898.png", group-title="DANSK",TV2 FYN
-http://tv2danmark-tv2fyn-live.hls.adaptive.level3.net/tv2danmark/tv2fyn/master.m3u8
 #EXTINF:0 tvg-shift="0" tvg-id="TV Syd DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628730.5068.png", group-title="DANSK",TV2 REG SYD
 http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/sd/10000/t/327RYXxPUq2u4xgiUD75gw/index-s32.m3u8
 #EXTINF:0 tvg-shift="0" tvg-id="TV2 DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1521240479.2493.png", group-title="DANSK",TV2 SYD
-http://tv2danmark-tv2syd-live.hls.adaptive.level3.net/tv2danmark/tv2syd/master.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="TV3 DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1516664329.4516.png", group-title="DANSK",TV3 DK
-http://193.160.224.98:54333/play/a00y
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2fyn/4kgvsglv/2/master.m3u8
 #EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1518953362.7183.png", group-title="DUAL",123
 http://109.248.236.41:4433/udp/238.1.1.97:1234
 #EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1518953362.7183.png", group-title="DUAL",A1
