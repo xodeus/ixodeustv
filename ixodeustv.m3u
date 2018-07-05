@@ -21,8 +21,10 @@ https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2fri/ve3pvkfs/2/master.m3
 https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2zulu/4kvorjjh/2/master.m3u8
 #EXTINF:0 tvg-shift="0" tvg-id="TV Syd DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628730.5068.png", group-title="DANSK",TV2 REG SYD
 http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/sd/10000/t/327RYXxPUq2u4xgiUD75gw/index-s32.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="TV2 DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1521240479.2493.png", group-title="DANSK",TV2 SYD
+#EXTINF:0 tvg-shift="0" tvg-id="TV2 DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1521240479.2493.png", group-title="DANSK",TV2
 https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2fyn/4kgvsglv/2/master.m3u8
+#EXTINF:0 tvg-shift="0" tvg-id="TV2 NEWS" tvg-logo="https://danishbits.org/static/bitbucket/users/1521240479.2493.png", group-title="DANSK",TV2 NEWS
+https://tv2-play-cl2-live-hls-st.akamaized.net/out/u/tv2news/bmfdkrbg/0/master_7.m3u8
 #EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781554.7108.png", group-title="MUSIK",105 MUSIC
 http://fms.105.net:1935/live/105Test1/playlist.m3u8
 #EXTINF:0 tvg-shift="0" tvg-id="Ø" tvg-logo="https://danishbits.org/static/bitbucket/users/1516614630.2266.png", group-title="MUSIK",4MUSIC
