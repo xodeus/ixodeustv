@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-shift="0" tvg-id="Å" tvg-logo="https://danishbits.org/static/bitbucket/users/1513635629.0662.png", group-title="DANSK",DB KIDS
 http://176.31.225.191:8081/live/Cartoon/playlist.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="6Eren HD DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1516552589.1329.png", group-title="DANSK",6'EREN
-http://109.236.82.41:2086/live/winsor_Fxf4xM/rPrETBMw/985.m3u8
 #EXTINF:0 tvg-shift="0" tvg-id="DR1 DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514675161.6633.png", group-title="DANSK",DR 1 HD FORW
 https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/master.m3u8?b=100-10000
 #EXTINF:0 tvg-shift="0" tvg-id="DR2 FHD DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514675219.3517.png", group-title="DANSK",DR 2 HD FORW
@@ -17,8 +15,6 @@ https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8?b=100-10000
 https://dr06-lh.akamaihd.net/i/live/dr06_0@147059/master.m3u8?b=100-10000
 #EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628408.7988.png", group-title="DANSK",FOLKETINGET
 https://klive-a.akamaihd.net/dc-1/live/hls/p/2158211/e/1_24gfa7qq/sd/6000/type/user/t/4mdpp8gJx_Bco5YJv0strw/index-s32.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="TV2 Charlie DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628557.3208.png", group-title="DANSK",TV2 CHARLIE
-https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2charlie/gkr3oefn/2/master.m3u8
 #EXTINF:0 tvg-shift="0" tvg-id="TV2 Fri DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628569.7212.png", group-title="DANSK",TV2 FRI
 https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2fri/ve3pvkfs/2/master.m3u8
 #EXTINF:0 tvg-shift="0" tvg-id="TV2 DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1521240417.8898.png", group-title="DANSK",TV2 FYN
