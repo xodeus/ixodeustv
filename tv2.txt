@@ -1,0 +1,20 @@
+#EXTINF:0 tvg-id="TV2.dk",TV2
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2nord/mfpoe3d3/2/master.m3u8
+#EXTINF:0 tvg-id="TV2News.dk",TV2 News
+https://tv2-play-cl2-live-hls-st.akamaized.net/out/u/tv2news/bmfdkrbg/0/master_7.m3u8
+#EXTINF:0 tvg-id="TV2Charlie.dk",TV2 Charlie
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2charlie/gkr3oefn/2/master.m3u8
+#EXTINF:0 tvg-id="TV2Fri.dk",TV2 Fri
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2fri/ve3pvkfs/2/master.m3u8
+#EXTINF:0 tvg-id="TV2Zulu.dk",TV2 Zulu
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2zulu/4kvorjjh/2/master.m3u8
+#EXTINF:0 tvg-id="TV2Sport.dk",TV2 Sport
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2sport/mmdsewor/2/master.m3u8
+#EXTINF:0 tvg-id="ext,TV2 Play 1
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play1/crsvkedv/0/master.m3u8
+#EXTINF:0 tvg-id="ext,TV2 Play 2
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play2/adegbvef/0/master.m3u8
+#EXTINF:0 tvg-id="ext,TV2 Play 3
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play3/fgmbreov/0/master.m3u8
+#EXTINF:0 tvg-id="ext,TV2 Play 4
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play4/zdyppexe/0/master.m3u8
