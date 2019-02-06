@@ -1,155 +1,269 @@
 #EXTM3U
-#EXTINF:0 tvg-shift="0" tvg-id="Å" tvg-logo="https://danishbits.org/static/bitbucket/users/1513635629.0662.png", group-title="DANSK",DB KIDS
-http://176.31.225.191:8081/live/Cartoon/playlist.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="DR1 DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514675161.6633.png", group-title="DANSK",DR 1 HD FORW
-https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/master.m3u8?b=100-10000
-#EXTINF:0 tvg-shift="0" tvg-id="DR2 FHD DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514675219.3517.png", group-title="DANSK",DR 2 HD FORW
-https://dr02-lh.akamaihd.net/i/live/dr02_0@147055/master.m3u8?b=100-10000
-#EXTINF:0 tvg-shift="0" tvg-id="DR3 HD DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514675240.2972.png", group-title="DANSK",DR 3 HD FORW
-https://dr03-lh.akamaihd.net/i/live/dr03_0@147056/master.m3u8?b=100-10000
-#EXTINF:0 tvg-shift="0" tvg-id="DR K FHD DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514675260.777.png", group-title="DANSK",DR KULTUR HD FORW
-https://dr04-lh.akamaihd.net/i/live/dr04_0@147057/master.m3u8?b=100-10000
-#EXTINF:0 tvg-shift="0" tvg-id="DR Ramasjang DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514675309.4873.png", group-title="DANSK",DR RAMASJANG HD FORW
-https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8?b=100-10000
-#EXTINF:0 tvg-shift="0" tvg-id="DR Ultra FHD DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514675332.8666.png", group-title="DANSK",DR ULTRA HD FORW
-https://dr06-lh.akamaihd.net/i/live/dr06_0@147059/master.m3u8?b=100-10000
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628408.7988.png", group-title="DANSK",FOLKETINGET
-https://klive-a.akamaihd.net/dc-1/live/hls/p/2158211/e/1_24gfa7qq/sd/6000/type/user/t/4mdpp8gJx_Bco5YJv0strw/index-s32.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="TV2 Fri DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628569.7212.png", group-title="DANSK",TV2 FRI
-https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2fri/ve3pvkfs/2/master.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="TV2 DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1521240417.8898.png", group-title="DANSK",TV2 FYN
-https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2fyn/4kgvsglv/2/master.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="TV2 News DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628672.887.png", group-title="DANSK",TV2 NEWS
-https://tv2-play-cl2-live-hls-st.akamaized.net/out/u/tv2news/bmfdkrbg/0/master_7.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="TV2 Fyn DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628617.1212.png", group-title="DANSK",TV2 REG FYN
+#EXTINF:0 tvg-shift="0" tvg-id="DR1 DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514675161.6633.png", group-title="DANSK",DR 1 DK FORW
+https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/master.m3u8?b=100-10000|X-Forwarded-For=62.242.0.0
+#EXTINF:0 tvg-shift="0" tvg-id="DR2 DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514675219.3517.png", group-title="DANSK",DR 2 DK FORW
+https://dr02-lh.akamaihd.net/i/live/dr02_0@147055/master.m3u8?b=100-10000|X-Forwarded-For=62.242.0.0
+#EXTINF:0 tvg-shift="0" tvg-id="DR3 HD DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514675240.2972.png", group-title="DANSK",DR 3 DK FORW
+https://dr03-lh.akamaihd.net/i/live/dr03_0@147056/master.m3u8?b=100-10000|X-Forwarded-For=62.242.0.0
+#EXTINF:0 tvg-shift="0" tvg-id="DR K DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514675260.777.png", group-title="DANSK",DR KULTUR DK FORW
+https://dr04-lh.akamaihd.net/i/live/dr04_0@147057/master.m3u8?b=100-10000|X-Forwarded-For=62.242.0.0
+#EXTINF:0 tvg-shift="0" tvg-id="DR Ramasjang DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514675309.4873.png", group-title="DANSK",DR RAMASJANG DK FORW
+https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8?b=100-10000|X-Forwarded-For=62.242.0.0
+#EXTINF:0 tvg-shift="0" tvg-id="DR Ultra DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514675332.8666.png", group-title="DANSK",DR ULTRA DK FORW
+https://dr06-lh.akamaihd.net/i/live/dr06_0@147059/master.m3u8?b=100-10000|X-Forwarded-For=62.242.0.0
+#EXTINF:0 tvg-shift="0" tvg-id="TV2 DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1521240403.367.png", group-title="DANSK",TV2 BORNHOLM DK
+https://tv2-dash-02.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2bornholm/tv2bornholm.isml/master.mpd
+#EXTINF:0 tvg-shift="0" tvg-id="TV2 DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1521240417.8898.png", group-title="DANSK",TV2 FYN DK
+https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2fyn/tv2fyn.isml/master.mpd
+#EXTINF:0 tvg-shift="0" tvg-id="TV2 DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1521240380.6333.png", group-title="DANSK",TV2 LORRY DK
+https://tv2-dash-02.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2lorry/tv2lorry.isml/master.mpd
+#EXTINF:0 tvg-shift="0" tvg-id="TV2 DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1521240448.9782.png", group-title="DANSK",TV2 NORD DK
+https://tv2-dash-02.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2nord/tv2nord.isml/master.mpd
+#EXTINF:0 tvg-shift="0" tvg-id="TV2 DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1521240479.2493.png", group-title="DANSK",TV2 SYD DK
+https://tv2-dash-02.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2syd/tv2syd.isml/master.mpd
+#EXTINF:0 tvg-shift="0" tvg-id="TV2 DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1521240493.4212.png", group-title="DANSK",TV2 ØST DK
+https://tv2-dash-02.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2ost/tv2ost.isml/master.mpd
+#EXTINF:0 tvg-shift="0" tvg-id="TV2 DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1521240514.7623.png", group-title="DANSK",TV2 ØSTJYLLAND DK
+https://tv2-dash-02.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2oj/tv2oj.isml/master.mpd
+#EXTINF:0 tvg-shift="0" tvg-id="TV2 Charlie DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628557.3208.png", group-title="DANSK",TV2 CHARLIE DK
+https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2charlie/tv2charlie.isml/master.mpd
+#EXTINF:0 tvg-shift="0" tvg-id="TV2 Fri DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628569.7212.png", group-title="DANSK",TV2 FRI DK
+https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2fri/tv2fri.isml/master.mpd
+#EXTINF:0 tvg-shift="0" tvg-id="TV2 News DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628672.887.png", group-title="DANSK",TV2 NEWS DK
+https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2news/tv2news.isml/master.mpd
+#EXTINF:0 tvg-shift="0" tvg-id="TV2 Sport DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1534594176.1333.png", group-title="DANSK",TV2 SPORT DK
+https://tv2-dash-02.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2sport/tv2sport.isml/master.mpd
+#EXTINF:0 tvg-shift="0" tvg-id="TV2 Zulu DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628582.8649.png", group-title="DANSK",TV2 ZULU DK
+https://tv2-dash-02.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2zulu/tv2zulu.isml/master.mpd
+#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1537084068.0727.png", group-title="DANSK",TV2 PLAY 1 DK
+https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2play1/tv2play1.isml/master.mpd
+#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1537084179.773.png", group-title="DANSK",TV2 PLAY 2 DK
+https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2play2/tv2play2.isml/master.mpd
+#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1537084206.2882.png", group-title="DANSK",TV2 PLAY 3 DK
+https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2play3/tv2play3.isml/master.mpd
+#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1537084222.9296.png", group-title="DANSK",TV2 PLAY 4 DK
+https://tv2-dash-01.secure.footprint.net/egress/ahandler/tv2danmark_hss/tv2play4/tv2play4.isml/master.mpd
+#EXTINF:0 tvg-shift="0" tvg-id="TV2 Bornholm DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628605.0284.png", group-title="DANSK",REGIONAL TV2 BORNHOLM DK
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+#EXTINF:0 tvg-shift="0" tvg-id="TV2 Fyn DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628617.1212.png", group-title="DANSK",REGIONAL TV2 FYN DK
 http://cdn-lt-live.tv2fyn.dk/dc-1/live/hls/p/1966291/e/0_vsfrv0zm/sd/10000/t/T6nwxGTEvXZRnLX-DBxxkw/index-s32.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="TV Syd DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628730.5068.png", group-title="DANSK",TV2 REG SYD
+#EXTINF:0 tvg-shift="0" tvg-id="TV2 Lorry DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628630.2852.png", group-title="DANSK",REGIONAL TV2 LORRY DK
+http://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/0_5l7gjlbn/sd/10000/t/o0rIIeGd1KdzBctCs5zPlQ/index-s32.m3u8
+#EXTINF:0 tvg-shift="0" tvg-id="TV 2 Midt-Vest" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628653.0131.png", group-title="DANSK",REGIONAL TV2 MIDTVEST DK
+http://cdn-lt-live.tvmidtvest.dk/dc-1/live/hls/p/1953371/e/0_ghzg9q0q/sd/10000/t/i288LRzPhejpahOfggbdtw/index-s32.m3u8
+#EXTINF:0 tvg-shift="0" tvg-id="TV2 Nord DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628695.3905.png", group-title="DANSK",REGIONAL TV2 NORD DK
+https://cdnapisec.kaltura.com/p/1956931/sp/195693100/playManifest/entryId/0_74s20zcv/format/applehttp/protocol/https/uiConfId/30287891/a.m3u8
+#EXTINF:0 tvg-shift="0" tvg-id="TV 2 Syd DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628730.5068.png", group-title="DANSK",REGIONAL TV2 SYD DK
 http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/sd/10000/t/327RYXxPUq2u4xgiUD75gw/index-s32.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="TV ØSTJYLLAND DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628756.2078.png", group-title="DANSK",TV2 REG ØSTJYLLAND
-http://cdn-lt-live.tv2oj.dk/dc-0/live/hls/p/2102081/e/0_x4p3licd/sd/10000/t/G6y0Ol394PIhL0O53DArlA/index-s32.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="TV2 Zulu DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628582.8649.png", group-title="DANSK",TV2 ZULU
-https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2zulu/4kvorjjh/2/master.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781554.7108.png", group-title="MUSIK",105 MUSIC
-http://fms.105.net:1935/live/105Test1/playlist.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781554.7108.png", group-title="MUSIK",Banovina TV
-http://video.radio-banovina.hr:1935/live/myStream/playlist.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="CALIFORNIA MUSIC CHANNEL" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781027.038.png", group-title="MUSIK",CALIFORNIA MUSIC CHANNEL
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="CITY MUSIK TV" tvg-logo="https://danishbits.org/static/bitbucket/users/1484602787.9181.png", group-title="MUSIK",CITY MUSIK TV
-http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="LATIN" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781554.7108.png", group-title="MUSIK",DIGITAL TV
-http://cm.hostlagarto.com:8081/tvdigitalimperial/tvdigitalHD.myStream/chunks.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="DJING.COM" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781234.8714.png", group-title="MUSIK",DJING.COM
-https://www.djing.com/tv/27766-02.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781554.7108.png", group-title="MUSIK",DREAM
-http://live.netd.com.tr/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="HEART TV" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781280.2487.png", group-title="MUSIK",HEART TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-p.m3u8?
-#EXTINF:0 tvg-shift="0" tvg-id="HEAVY METAL TV" tvg-logo="https://danishbits.org/static/bitbucket/users/1508241450.1493.png", group-title="MUSIK",HEAVY METAL TV
-http://70.166.99.93:1935/hmtv/myStream/playlist.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781554.7108.png", group-title="MUSIK",HIT Music
-http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="JUCE TV" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781311.218.png", group-title="MUSIK",JUCE TV
-http://109.68.190.192:1935/WEB_JuceTV/JuceTV.stream/playlist.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781554.7108.png", group-title="MUSIK",Klik TV
-http://92.62.234.201:11234
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781554.7108.png", group-title="MUSIK",KLIPKAR TV
-http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="KOOL LONDON RADIO" tvg-logo="https://danishbits.org/static/bitbucket/users/1508190078.3286.png", group-title="MUSIK",KOOL LONDON RADIO
-http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="KRONEN HIT" tvg-logo="https://danishbits.org/static/bitbucket/users/1507816003.9748.png", group-title="MUSIK",KRONEN HIT
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b378000.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="M20 MUSIC" tvg-logo="https://danishbits.org/static/bitbucket/users/1510268559.8129.png", group-title="MUSIK",M20 MUSIC
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781554.7108.png", group-title="MUSIK",M2OTV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781554.7108.png", group-title="MUSIK",Music Box UA
-http://212.26.132.86/hls/mb_ua.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781554.7108.png", group-title="MUSIK",One.by HD
-http://rtmp.one.by:1300
-#EXTINF:0 tvg-shift="0" tvg-id="LATIN" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781554.7108.png", group-title="MUSIK",QMUSIC
-http://102793ooyala-lh.akamaihd.net/i/depers02_delivery@381748/master.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781554.7108.png", group-title="MUSIK",Radio 51 TV
-http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781554.7108.png", group-title="MUSIK",Radio Bruno
-http://37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781554.7108.png", group-title="MUSIK",Radio Italia Vision
-http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="RADIO MONTE CARLO" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781480.7295.png", group-title="MUSIK",RADIO MONTE CARLO
-http://wow01.105.net/live/rmc1/playlist.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781554.7108.png", group-title="MUSIK",RADIO MONTE CARLO TV
-http://wow01.105.net/live/rmc1/chunklist_w776440177.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781554.7108.png", group-title="MUSIK",Radio Number One TV
-http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="The Country Network" tvg-logo="https://danishbits.org/static/bitbucket/users/1510268965.168.png", group-title="MUSIK",The Country Network
+#EXTINF:0 tvg-shift="0" tvg-id="TV ØST DK" tvg-logo="https://danishbits.org/static/bitbucket/users/1514628594.4978.png", group-title="DANSK",REGIONAL TV2 ØST DK
+https://cdn-lt-live.tveast.dk/dc-0/live/hls/p/1953381/e/0_zphj9q61/sd/10000/t/5V0e8WiEDy1T0USo0Guueg/index-s32.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516780976.487.png", group-title="MUSIK",BRIDGE TV
+http://ott-cdn.ucom.am/s34/index.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516780958.9238.png", group-title="MUSIK",BRIDGE TV DANCE
+http://ott-cdn.ucom.am/s78/index.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781027.038.png", group-title="MUSIK",CALIFORNIA MUSIC CHANNEL
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781106.6576.png", group-title="MUSIK",COUNTRY NETWORK
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781554.7108.png", group-title="MUSIK",Top sound TV
-http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/chunklist_w1960175513_b1248000.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="ABC NEWS US" tvg-logo="https://danishbits.org/static/bitbucket/users/1516724445.1988.png", group-title="NEWS",ABC NEWS US
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1520286450.2887.png", group-title="NEWS",ADULT SWIM
-http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="Al Jazeera" tvg-logo="https://danishbits.org/static/bitbucket/users/1516724467.6471.png", group-title="NEWS",Al Jazeera
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="ARIRANG" tvg-logo="https://danishbits.org/static/bitbucket/users/1516725151.0651.png", group-title="NEWS",ARIRANG
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u
-#EXTINF:0 tvg-shift="0" tvg-id="ARISE NEWS" tvg-logo="https://danishbits.org/static/bitbucket/users/1516725054.5559.png", group-title="NEWS",ARISE NEWS
-http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516724371.5432.png", group-title="NEWS",BBC WORLD NEWS
-http://jabber.divan.tv:8009/tv.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="BLOOMBERG TV EUROPE" tvg-logo="https://danishbits.org/static/bitbucket/users/1483919746.6789.png", group-title="NEWS",BLOOMBERG TV EUROPE
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1547940119.5302.png", group-title="MUSIK",DEEJAY TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781838.812.png", group-title="MUSIK",KRONENHIT
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1547941395.535.png", group-title="MUSIK",KRONENHIT HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1547941761.74.png", group-title="MUSIK",MCM TOP
+http://ott-cdn.ucom.am/s49/index.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1547940133.2742.png", group-title="MUSIK",MELODY CHANNEL
+http://186.155.200.118:1935/live/MelodyChannel/chunklist_w669279951.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781375.2718.png", group-title="MUSIK",MEZZO
+http://ott-cdn.ucom.am/s35/index.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1547940144.9171.png", group-title="MUSIK",MTV EUROPE
+http://88.216.48.14:80/mtveurope/live.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516781409.882.png", group-title="MUSIK",MTV HITS
+http://88.216.48.14:80/mtvhits/live.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1547940258.3946.png", group-title="MUSIK",MUSIC BOX
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1547940258.3946.png", group-title="MUSIK",MUSIC BOX
+http://95.67.49.203:9990/OTV
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1547940160.2704.png", group-title="MUSIK",MUSIC BOX GOLD
+http://live-musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1547940176.9505.png", group-title="MUSIK",POWER MUSIC
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1547940189.1231.png", group-title="MUSIK",RETRO MUSIC
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1397767252.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1547940203.4495.png", group-title="MUSIK",TRACE MZIKI
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1547940215.7998.png", group-title="MUSIK",V2BEAT
+http://139.59.166.48:8081/live/live3/playlist.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1547940239.2087.png", group-title="MUSIK",VIVA RUSSIA
+http://85.143.202.116/hls/viva.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516724445.1988.png", group-title="NEWS",ABC NEWS
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1548357569.846.png", group-title="NEWS",BLOOMBERG TV EUROPE
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516724371.5432.png", group-title="NEWS",Bloomberg UK
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="CBS News" tvg-logo="https://danishbits.org/static/bitbucket/users/1485722862.9155.png", group-title="NEWS",CBS News
-https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_360.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="CHANNEL NEWSASIA" tvg-logo="https://danishbits.org/static/bitbucket/users/1516724482.9158.png", group-title="NEWS",CHANNEL NEWSASIA
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="CNBC UK" tvg-logo="https://danishbits.org/static/bitbucket/users/1527349135.7586.png", group-title="NEWS",CNBC
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_796_av-b.m3u8?
-#EXTINF:0 tvg-shift="0" tvg-id="Deutsche Welle DE" tvg-logo="https://danishbits.org/static/bitbucket/users/1516659860.4798.png", group-title="NEWS",Deutsche Welle DE
-http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-shift="0" tvg-id="Deutsche Welle ENG" tvg-logo="https://danishbits.org/static/bitbucket/users/1516659818.9423.png", group-title="NEWS",Deutsche Welle ENG
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1548357569.846.png", group-title="NEWS",BLOOMBERG USA
+https://bblive-liveproduseast.hs.llnwd.net/btv/desktop/us_live.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1548357590.3318.png", group-title="NEWS",CNN
+http://ott-cdn.ucom.am/s27/index.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1548357611.7312.png", group-title="NEWS",DEUTSCHE WELLE
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="FOX 25" tvg-logo="https://danishbits.org/static/bitbucket/users/1508254657.0224.png", group-title="NEWS",FOX 25
-http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/904k/index.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="FOX 30" tvg-logo="https://danishbits.org/static/bitbucket/users/1508254891.342.png", group-title="NEWS",FOX 30
-http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="FRANCE 24 EN HD" tvg-logo="https://danishbits.org/static/bitbucket/users/1485111084.889.png", group-title="NEWS",FRANCE 24 EN HD
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="ID FASHION" tvg-logo="https://danishbits.org/static/bitbucket/users/1516725189.6131.png", group-title="NEWS",ID FASHION
-http://95.67.8.22/hls/idfashion/index.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="INFO WARS LIVE" tvg-logo="https://danishbits.org/static/bitbucket/users/1516724518.69.png", group-title="NEWS",INFO WARS LIVE
-http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="MSNBC HD US" tvg-logo="https://danishbits.org/static/bitbucket/users/1516720064.29.png", group-title="NEWS",MSNBC
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-p.m3u8?
-#EXTINF:0 tvg-shift="0" tvg-id="NEW ORLEANS" tvg-logo="https://danishbits.org/static/bitbucket/users/1508255563.0373.png", group-title="NEWS",NEW ORLEANS
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516724371.5432.png", group-title="NEWS",NewsmaxTV HD
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="NHK" tvg-logo="https://danishbits.org/static/bitbucket/users/1516725007.7392.png", group-title="NEWS",NHK
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516724371.5432.png", group-title="NEWS",RT America HD
-http://secure-streams.akamaized.net/rt-usa/index1600.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516724371.5432.png", group-title="NEWS",RT Documentary HD
-https://secure-streams.akamaized.net/rt-doc/index1600.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="RT ENG" tvg-logo="https://danishbits.org/static/bitbucket/users/1500229911.3708.png", group-title="NEWS",RT ENG
-https://secure-streams.akamaized.net/rt/index2500.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516724371.5432.png", group-title="NEWS",RT News HD
-http://secure-streams.akamaized.net/rt/index1600.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="Ø" tvg-logo="https://danishbits.org/static/bitbucket/users/1516666120.118.png", group-title="NEWS",RTE NEWS
-http://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/2564k/index.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="SKYNEWS" tvg-logo="https://danishbits.org/static/bitbucket/users/1500251886.5154.png", group-title="NEWS",SKYNEWS
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="TRT WORLD" tvg-logo="https://danishbits.org/static/bitbucket/users/1516724455.7621.png", group-title="NEWS",TRT WORLD
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="TWIT TV" tvg-logo="https://danishbits.org/static/bitbucket/users/1516724980.3979.png", group-title="NEWS",TWIT TV
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="VoA" tvg-logo="https://danishbits.org/static/bitbucket/users/1508160587.2832.png", group-title="NEWS",VoA
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:0 tvg-id="WEATHER CHANNEL" tvg-logo="https://danishbits.org/static/bitbucket/users/1516725343.0849.png", group-title="NEWS",WEATHER CHANNEL
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="Ø" tvg-logo="https://danishbits.org/static/bitbucket/users/1516720884.9936.png", group-title="NEWS",WGN NEWS CHICAGO
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1548357623.1084.png", group-title="NEWS",FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516724413.4725.png", group-title="NEWS",SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516724455.7621.png", group-title="NEWS",TRT WORLD
+https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_720p_av-p.m3u8?
+#EXTINF:0 tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1548357636.7839.png", group-title="NEWS",WGN CHICAGO
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:0 tvg-shift="0" tvg-id="WPXI" tvg-logo="https://danishbits.org/static/bitbucket/users/1516725081.3333.png", group-title="NEWS",WPXI
-http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1539646243.8632.png", group-title="DK RADIO",00'ER HITS
+https://live-bauerdk.sharp-stream.com/DK_HQ_RP07.aac
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1539646265.5548.png", group-title="DK RADIO",2016 HITS
+https://live-bauerdk.sharp-stream.com/DK_HQ_RP14.aac
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1539646275.6676.png", group-title="DK RADIO",2017 HITS
+https://live-bauerdk.sharp-stream.com/DK_HQ_RP15.aac
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1539646287.4827.png", group-title="DK RADIO",80'ER HITS
+https://live-bauerdk.sharp-stream.com/DK_HQ_RP04.aac
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1539646301.0621.png", group-title="DK RADIO",90'ER HITS
+https://live-bauerdk.sharp-stream.com/DK_HQ_RP06.aac
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1519145610.6973.png", group-title="DK RADIO",ANR
+http://stream.anr.dk/anr
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1539646312.1367.png", group-title="DK RADIO",DANSK JUL
+http://tx-bauerdk.sharp-stream.com/http_live.php?i=390_dk_aacp
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1539646326.3713.png", group-title="DK RADIO",DANSKE 80'ER HITS
+https://live-bauerdk.sharp-stream.com/DK_HQ_RP05.aac
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1539646340.8911.png", group-title="DK RADIO",DEN ANDEN RADIO
+http://81.7.160.152:8010/d2r.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1539646354.8947.png", group-title="DK RADIO",DIGSTER TOP 30
+https://live-bauerdk.sharp-stream.com/DK_HQ_RP13.aac
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1519145623.7704.png", group-title="DK RADIO",DR NYHEDER
+http://live-icy.gss.dr.dk/A/A02L.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783120.246.png", group-title="DK RADIO",DR P1 
+http://live-icy.gss.dr.dk:80/A/A03H.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783130.4373.png", group-title="DK RADIO",DR P2
+http://live-icy.gss.dr.dk:80/A/A04H.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783139.6474.png", group-title="DK RADIO",DR P3
+http://live-icy.gss.dr.dk:80/A/A05H.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783165.5989.png", group-title="DK RADIO",DR P4 BORNHOLM
+http://live-icy.gss.dr.dk:80/A/A06H.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1519145660.1897.png", group-title="DK RADIO",DR P4 ESBJERG
+http://live-icy.gss.dr.dk/A/A15H.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783175.8621.png", group-title="DK RADIO",DR P4 FYN
+http://live-icy.gss.dr.dk:80/A/A07H.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516782866.3653.png", group-title="DK RADIO",DR P4 KOEBENHAVN
+http://live-icy.gss.dr.dk:80/A/A08H.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516782881.2566.png", group-title="DK RADIO",DR P4 MIDT OG VEST
+http://live-icy.gss.dr.dk:80/A/A09H.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516782899.749.png", group-title="DK RADIO",DR P4 NORDJYLLAND
+http://live-icy.gss.dr.dk:80/A/A10H.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516782914.4514.png", group-title="DK RADIO",DR P4 OESTJYLLAND
+http://live-icy.gss.dr.dk:80/A/A14H.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516782945.2179.png", group-title="DK RADIO",DR P4 SJAELLAND
+http://live-icy.gss.dr.dk:80/A/A11H.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516782958.9612.png", group-title="DK RADIO",DR P4 SYD
+http://live-icy.gss.dr.dk:80/A/A12H.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516782977.2257.png", group-title="DK RADIO",DR P4 TREKANTEN
+http://live-icy.gss.dr.dk:80/A/A13H.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783185.5959.png", group-title="DK RADIO",DR P5
+http://live-icy.gss.dr.dk:80/A/A25H.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783197.8386.png", group-title="DK RADIO",DR P6 BEAT
+http://live-icy.gss.dr.dk:80/A/A29H.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516782987.7373.png", group-title="DK RADIO",DR P7 MIX
+http://live-icy.gss.dr.dk:80/A/A21H.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516782999.3272.png", group-title="DK RADIO",DR P8 JAZZ
+http://live-icy.gss.dr.dk:80/A/A22H.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1519145697.9475.png", group-title="DK RADIO",FEEL GOOD
+https://live-bauerdk.sharp-stream.com/DK_HQ_RP20.aac
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783037.6021.png", group-title="DK RADIO",GLOBUS GULD
+http://media.wlmm.dk/guld2
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1542476057.1586.png", group-title="DK RADIO",GLOBUS GULD JUL 
+http://stream.wlmm.dk:8000/guldjul
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783048.9718.png", group-title="DK RADIO",KLASSISK
+http://onair.100fmlive.dk/klassisk_live.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783084.2517.png", group-title="DK RADIO",MAX
+http://netradio.radiomax.dk:8002/max.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783096.2833.png", group-title="DK RADIO",MYROCK
+http://stream.myrock.fm/myrock128?
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1539646393.1905.png", group-title="DK RADIO",NOVA 100% DANSK
+https://live-bauerdk.sharp-stream.com/DK_HQ_RP11.aac
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1539646405.8081.png", group-title="DK RADIO",NOVA TOP 40
+https://live-bauerdk.sharp-stream.com/DK_HQ_RP12.aac
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783219.982.png", group-title="DK RADIO",POP FM
+http://stream.popfm.dk:80/pop128
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783243.3959.png", group-title="DK RADIO",RADIO 100
+http://onair.100fmlive.dk:80/100fm_live.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783539.551.png", group-title="DK RADIO",RADIO 24SYV
+http://streaming.radio24syv.dk/nice
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516782816.9271.png", group-title="DK RADIO",RADIO ABC - VI GIR DIG HITS!
+http://netradio.radioabc.dk/
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783287.596.png", group-title="DK RADIO",RADIO ALFA SYDFYN
+http://icecast1.radiostuff.dk:80/Alfasydfyn128
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783298.1661.png", group-title="DK RADIO",RADIO DIABLO
+http://icecast1.radiostuff.dk:8000/Diablo128
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783310.3284.png", group-title="DK RADIO",RADIO GLOBUS
+http://stream.wlmm.dk:8000/stream/9/
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783557.4554.png", group-title="DK RADIO",RADIO GO! FM
+http://netradio.gofm.dk/
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783322.0612.png", group-title="DK RADIO",RADIO KØGE
+http://stream.wlmm.dk/stream/53/
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1519149284.3331.png", group-title="DK RADIO",RADIO LIMFJORD
+http://media.limfjordnetradio.dk/limfjord128
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783339.0499.png", group-title="DK RADIO",RADIO M
+http://89.249.7.68/radiom
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1519149320.456.png", group-title="DK RADIO",RADIO MONO
+http://lyt.til.radiomono.dk:8000/RM192
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783370.8513.png", group-title="DK RADIO",RADIO NORD FM
+http://netradio.radionord.dk:8000/RadioNord
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1519145806.5544.png", group-title="DK RADIO",RADIO NORDJYSKE
+http://stream.anr.dk/nordjyske
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783106.8787.png", group-title="DK RADIO",RADIO NOVA
+http://stream.novafm.dk:80/nova128
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1519145762.1939.png", group-title="DK RADIO",RADIO PLAYBACK
+http://stream02.radioplayback.dk/stream
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1519145748.0631.png", group-title="DK RADIO",RADIO RINGKØBING
+http://netradio.radioringkobing.dk:8000/
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783571.8222.png", group-title="DK RADIO",RADIO SILKEBORG
+http://89.249.7.68/silkeborg
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783405.4658.png", group-title="DK RADIO",RADIO SKIVE
+http://89.249.7.68/skive
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783418.8785.png", group-title="DK RADIO",RADIO SLR
+http://stream.wlmm.dk/stream/54/
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783440.1734.png", group-title="DK RADIO",RADIO SOFT
+http://onair.100fmlive.dk:80/soft_live.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1519145836.3088.png", group-title="DK RADIO",RADIO SOFT CLASSIC
+https://live-bauerdk.sharp-stream.com/DK_HQ_RP08.aac
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1542476119.7286.png", group-title="DK RADIO",RADIO SOFT JUL
+https://live-bauerdk.sharp-stream.com/radiosoft_dk_mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1519145846.7632.png", group-title="DK RADIO",RADIO SOFT MODERN
+http://tx-bauerdk.sharp-stream.com/http_live.php?i=110_dk_aacp
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1519145856.451.png", group-title="DK RADIO",RADIO SUNSHINE
+http://itunedradio.fr:8765/live
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783610.3268.png", group-title="DK RADIO",RADIO SYDHAVSØERNE
+http://netradio.dk/
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783451.8209.png", group-title="DK RADIO",RADIO VIBORG
+http://webradio.radioviborg.dk/viborg
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783472.1983.png", group-title="DK RADIO",RADIO VLR VEJLE
+http://webradio.vlr.dk/vlrvejle
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1542476152.9048.png", group-title="DK RADIO",RETRO JULERADIO
+http://retro-radio.dk/netradio/jul.php?type=.mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1519147568.2099.png", group-title="DK RADIO",RETRO RADIO
+http://streammp3.retro-radio.dk/retro-mp3
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1519147548.5227.png", group-title="DK RADIO",SKAGA.FM
+http://stream.wlmm.dk/skagafm
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783583.2604.png", group-title="DK RADIO",SKALA.FM KOLDING
+http://webradio.skala.fm/kolding
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783600.0021.png", group-title="DK RADIO",SOLO FM
+http://89.249.7.68/solo
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1519158365.0047.png", group-title="DK RADIO",THE COFFEE SHOP
+https://live-bauerdk.sharp-stream.com/DK_HQ_RP10.aac
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1516783621.3572.png", group-title="DK RADIO",THE VOICE
+http://stream.voice.dk/voice128
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1539646429.4519.png", group-title="DK RADIO",THE VOICE '18 RADIO
+https://live-bauerdk.sharp-stream.com/DK_HQ_RP03.aac
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1539646440.9478.png", group-title="DK RADIO",THE VOICE NEW MUSIC
+https://live-bauerdk.sharp-stream.com/DK_HQ_RP17.aac
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1539646454.469.png", group-title="DK RADIO",THE VOICE PARTY PEOPLE
+https://live-bauerdk.sharp-stream.com/DK_HQ_RP16.aac
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1539646466.3674.png", group-title="DK RADIO",VI UNGE RADIO
+https://live-bauerdk.sharp-stream.com/DK_HQ_RP18.aac
+#EXTINF:-1 radio="true" tvg-shift="0" tvg-id="dbtv" tvg-logo="https://danishbits.org/static/bitbucket/users/1519145881.7919.png", group-title="DK RADIO",VIBEFM
+http://s1.vibestream.dk:9020/live
